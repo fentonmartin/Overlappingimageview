@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OverlappingImageView</string>
+    <string name="action_github">Go to Github</string>
+    <string name="action_info">Info</string>
+</resources>
