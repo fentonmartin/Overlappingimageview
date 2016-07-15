@@ -108,7 +108,7 @@ public class OverlappingImageView extends ImageView {
     // ==== PUBLIC CLASS METHODS ====== //
     // ================================ //
 
-    public void ShowMask(boolean mask) {
+    public void showMask(boolean mask) {
         if (mask == mMaskEnable) {
             return;
         }
@@ -117,7 +117,7 @@ public class OverlappingImageView extends ImageView {
     }
 
     public void toggleMask() {
-        ShowMask(!mMaskEnable);
+        showMask(!mMaskEnable);
     }
 
     /**
