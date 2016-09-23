@@ -12,7 +12,7 @@ The Drawable will resize according to the ImageView size.
 <img src="https://github.com/davidHarush/Overlappingimageview/blob/master/Screenshot_1.png" width="168" height="300"  hspace="30"/>
 <img src="https://github.com/davidHarush/Overlappingimageview/blob/master/Screenshot_2.png" width="168" height="300"  hspace="30"/>
 
-All you need to do is to copy the OverLappingImageView.java to your project and start using it, here some examples for the project use
+All you need to do is to copy the OverLappingImageView.java to your project and start using it, here some code examples :
 
 <br/><br/>
 
