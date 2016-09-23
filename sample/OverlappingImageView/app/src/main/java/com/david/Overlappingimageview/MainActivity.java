@@ -15,7 +15,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final static String GITHUB_URL = "https://github.com/davidHarush/Overlappingimageview";
+    private final static String GITHUB_URL = "https://github.com/davidHarush/Overlappingimageview/blob/master/README.md";
 
     private FloatingActionButton mFab;
     private OverlappingImageView mImg2, mImg3, mImg4;
