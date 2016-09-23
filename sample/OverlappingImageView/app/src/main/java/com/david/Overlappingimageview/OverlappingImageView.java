@@ -4,6 +4,7 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.drawable.Drawable;
 import android.os.Build;
+import android.support.annotation.DrawableRes;
 import android.util.AttributeSet;
 import android.util.Log;
 import android.view.MotionEvent;
@@ -132,10 +133,11 @@ public class OverlappingImageView extends ImageView {
 
     /**
      * Set drawable res to draw on the imageView
+     * can be XML shape or drawable
      *
-     * @param id of the drawable.
+     * @param id of the Res.
      */
-    public OverlappingImageView setMaskShape(int id) {
+    public OverlappingImageView setMaskShape(@DrawableRes int id) {
         mShapeID = id;
         return this;
     }
