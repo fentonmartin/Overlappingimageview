@@ -10,9 +10,11 @@ The Drawable will resize according to the ImageView size.<br/>
 <img src="https://github.com/davidHarush/Overlappingimageview/blob/master/Screenshot_1.png" width="168" height="300"  hspace="30"/>
 <img src="https://github.com/davidHarush/Overlappingimageview/blob/master/Screenshot_2.png" width="168" height="300"  hspace="30"/>
 <br/>
-How to use: all you need to do is to copy the OverLappingImageView.java to your project and start using it.
 <br/>
-Code examples:
+<b>How to use:<b/> all you need to do is to copy the OverLappingImageView.java to your project and start using it.
+<br/>
+<br/>
+<b>Code examples:<b/>
 <br/>
 <br/>
 exmple for drawble mask draw in front of the image:
