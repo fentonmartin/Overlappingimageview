@@ -14,6 +14,7 @@ How to use: all you need to do is to copy the OverLappingImageView.java to your 
 <br/>
 Code examples:
 <br/>
+<br/>
 exmple for drawble mask draw in front of the image:
 ```
 OverlappingImageView  mImg1 = ((OverlappingImageView) findViewById(R.id.imageView1));
