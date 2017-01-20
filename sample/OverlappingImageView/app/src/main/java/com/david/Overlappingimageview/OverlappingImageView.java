@@ -143,10 +143,17 @@ public class OverlappingImageView extends ImageView {
     }
 
     /**
-     * Return state of the mask
+     * @return True if the mask is Visible , false otherwise.
      */
-    public boolean isMaskEenable() {
+    public boolean isMaskVisible() {
         return this.mMaskEnable;
+    }
+
+    /**
+     * @return True if mask is set, false otherwise.
+     */
+    public boolean isMaskSet() {
+       return 0 != this.mShapeID;
     }
 
 
