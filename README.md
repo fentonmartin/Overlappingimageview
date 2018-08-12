@@ -1,7 +1,7 @@
 # Overlappingimageview
 Simple custom ImageView for android
 
-I made this project in order to achieve a simple way to enable overlapping of two images one over the other.<br/>
+Imageview with simple way to enable overlapping of two images one over the other.<br/>
 This project helped me build a gallery with multiple selection modes.<br/>
 You can use a Drawable or xml shape in front of or behind the regular ImageView resource.<br/>
 The Drawable will resize according to the ImageView size.<br/><br/>
